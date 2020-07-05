@@ -4,7 +4,8 @@
 composer install
 ```
 
-**COMMAND USAGE
+**COMMAND USAGE**
+
 _1.run in root directory_
 _2.vat optional parameter_
 _3.you can provide additional currencies see example below_**
