@@ -1,0 +1,22 @@
+{
+    "require": {
+        "symfony/console": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Console\\": "src",
+            "Kromkata\\Calculate\\": "packages/kromkata/calculate/src"
+        },
+        "classmap": [
+            "src"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
